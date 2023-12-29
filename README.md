@@ -2,6 +2,25 @@
 
 Welcome to our Valorant Statistics project! This project aims to analyze gameplay data from Blitz.gg to uncover insights and trends within the popular game Valorant.
 
+## 📊 Entity-Relationship Diagram
+
+![Entity-Relationship Diagram](/pic/entityrelationship.png)
+
+This diagram illustrates the relationships between different data entities in our Valorant data analysis project.
+
+## 🔄 Flowchart for Data Analysis
+
+![Flowchart for Data Analysis](/pic/flowchart.png)
+
+This flowchart outlines the sequential steps involved in the data analysis process for Valorant.
+
+## 📅 Gantt Chart for Project Timeline
+
+![Gantt Chart for Project Timeline](/pic/gant.png)
+
+The Gantt chart showcases the timeline and phases of our Valorant data analysis project.
+
+
 ## 🛠️ Tools and Libraries Utilized
 In our quest to unravel the mysteries of Valorant's gameplay, we've wielded a powerful arsenal of tools:
 - **Pandas** and **NumPy**: For data processing and manipulation wizardry.
